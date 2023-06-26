@@ -1,5 +1,5 @@
 # Sort-Water-Puzzle-Project
-The project using Python to API review data from CH Play and AppStore of the game "Sort Water Puzzle Project" and doing EDA, sentiment analysis with this dataset.
+The project using Python to API review data from CH Play and AppStore of the game "Sort Water Puzzle" and doing EDA, sentiment analysis with this dataset.
 1. What is sentiment analysis? 
 Sentiment analysis is the process of analyzing text to determine the sentiment expressed, classifying it as positive, negative, or neutral. It helps understand the subjective opinions, emotions, or attitudes conveyed in textual data.
 2. Project goals:
