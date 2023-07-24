@@ -6,16 +6,16 @@ Sentiment analysis is the process of analyzing text to determine the sentiment e
 
 2. Project goals:
 
-Having better understanding of customer opinions, making data-driven decisions based on review sentiment.
+Having better understanding of customers' opinions, making data-driven decisions based on review sentiment.
 
 3. Setup process:
-- Step 1: Collect data from CH Play and AppStore
+- Step 1: Collect review data from CH Play and AppStore
 - Step 2: Concatenating results between CH Play and AppStore
 - Step 3: Doing sentiment analysis
   - Clean and preprocess the text data by converting the text to lowercase and removing stopwords
-  - Topic modeling using LDA by classifying dataset into 3 topics
-  - Make Wordcloud of positive/negative review
-  - VADER sentiment scoring include running the polarity score on the entire dataset and plotting VADER result
+  - Topic modeling using **LDA** by classifying dataset into 3 topics
+  - Make **Wordcloud** of positive/negative review
+  - **VADER sentiment scoring** include running the polarity score on the entire dataset and plotting VADER result
 
 4.  References:
 - "Sort Water Puzzle" publishing company: https://www.sonat.vn/
